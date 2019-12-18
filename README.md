@@ -27,7 +27,7 @@
 dataディレクトリにEPUBをコピーするとDocker image内で以下のコマンドでレポートが生成できます。
 
 ```
-/var/app/data# ace -l ja --o ./report epubFileName.epub
+> ace -l ja -o ./report epubFileName.epub
 ```
 
 - その他の使い方は[Ace Documents](https://daisy.github.io/ace/)を参照。
